@@ -13,9 +13,15 @@ body {
     margin-right: 15%;
     color: #F4F4F9;
     z-index: 1;
+    padding:3%;
+    top: 0;
+    bottom: 0;
+}
+
+a {
+    color:#B8DBD9;
 }
 
 h2 {
     size: 24;
-    color: red;
 }
