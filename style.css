@@ -1,7 +1,18 @@
-* {
+body {
     font-family: Helvetica, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+} 
+
+#content{
+    background-color: #2A363C;
+    color: #F4F4F9;
 }
 
 h2 {
-    
+    size: 24;
 }
