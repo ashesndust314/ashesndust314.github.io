@@ -1,3 +1,9 @@
+h1 {
+    size: 32px;
+    margin-bottom: 10px;
+    color: #B8DBD9;
+}
+
 body {
     font-family: Helvetica, sans-serif;
     background-image: url("background.jpg");
@@ -23,12 +29,6 @@ p {
 
 a {
     color:#B8DBD9;
-}
-
-h1 {
-    size: 32px;
-    margin-bottom: 10px;
-    color: #B8DBD9;
 }
 
 h2 {
