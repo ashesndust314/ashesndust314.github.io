@@ -26,6 +26,7 @@ a {
 }
 
 h1 {
+    size: 32px;
     margin-bottom: 10px;
     color: #B8DBD9;
 }
