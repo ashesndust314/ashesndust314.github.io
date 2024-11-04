@@ -1,4 +1,3 @@
 # Projects
 
-ONUS\n
-Blackjack
+ONUS
